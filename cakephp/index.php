@@ -22,7 +22,7 @@
  */
 
 /**
- *  Get Cake's root directory
+ *  Get Cake's root directory   hello
  */
 define('APP_DIR', 'app');
 define('DS', DIRECTORY_SEPARATOR);
